@@ -11,6 +11,8 @@ Clan: Ciénaga
 
 gmail: wilsondelgado890@gmail.com
 
+github: https://github.com/synfony/M3S1---sistema-interactivo-.git
+
 //español//
 
 Este es un sistema interactivo que solicita al usuario su edad y, según la respuesta, muestra un mensaje motivacional personalizado.
@@ -22,3 +24,5 @@ Coder: Wilson Esteban Delgado Molano
 Clan: cienaga
 
 gmail: wilsondelgado890@gmail.com
+
+github: https://github.com/synfony/M3S1---sistema-interactivo-.git
